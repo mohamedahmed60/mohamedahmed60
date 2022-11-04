@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi There, I`m Mohamed Ahmed 👋
 
-<!--
-**mohamedahmed60/mohamedahmed60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😎 Currently taking a break from work.
+- 🏢 Previously worked with Ajej Consult.
+- 🌱 Learning more about and studying : VueJs , Deep Learning.
+- 👯 I’m looking to collaborate on Youtube , with other content creators.
+- 🔭 I’m currently working on Frontier Wallet.
+- 🌱 I’m currently learning python , Django.
+- 🤔 I’m looking for help with Velocityx documentation.
+- 💬 Ask me about Python or any tech related stuff.
+- 📫 How to reach me: Twitter - @M___aljabri.
+- 😄 Pronouns: He / His.
+- ⚡ Fun fact: I like to give as much as I can to people.
