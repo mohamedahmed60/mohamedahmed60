@@ -1,7 +1,6 @@
 ## Hi There, I`m Mohamed Ahmed 👋
 
-- 😎 Currently taking a break from work.
-- 🏢 Previously worked with Ajej Consult.
+
 - 🌱 Learning more about and studying : VueJs , Deep Learning.
 - 👯 I’m looking to collaborate on Youtube , with other content creators.
 - 🔭 I’m currently working on Frontier Wallet.
